@@ -1,5 +1,5 @@
 {
-	"name": "productos_menu",
+	"name": "productos_menu_csv",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "sa_omnicanal",
